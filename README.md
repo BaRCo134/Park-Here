@@ -1,2 +1,4 @@
 # Park-Here
-Have you ever looked for a parking for to much time? this app may solve it!
+Have you ever found yourself looking for a parking for too much time? 
+
+this app may solve this frastrated situation!
