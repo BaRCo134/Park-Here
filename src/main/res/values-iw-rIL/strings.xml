@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_maps">מפה</string>
+    <string name="sign_in_btn">התחבר!</string>
+    <string name="sign_out_btn">התנתק</string>
+    <string name="start_btn">התחל!</string>
+    <string name="search_btn">חפש</string>
+    <string name="search_txtV">לאיפה אתה הולך?</string>
+    <string name="marker_add_like_btn">לייק!</string>
+    <string name="marker_likes_txtV">"לייקים: "</string>
+    <string name="marker_reports_txtV">"דיווחים: "</string>
+    <string name="marker_nickname_txtV">"כינוי: "</string>
+    <string name="Toast_permission_required">אין לנו גישה למיקומך</string>
+    <string name="signed_out_successfuly">התנתקת בהצלחה!</string>
+    <string name="im_out">אני יוצא!</string>
+    <string name="look_for_parkings">חפש חניות</string>
+</resources>

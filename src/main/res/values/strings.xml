@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">ParkHere</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sign_in_btn">Sign In!</string>
+    <string name="sign_out_btn">Sign Out</string>
+    <string name="start_btn">Start!</string>
+    <string name="search_txtV">Where are you going?</string>
+    <string name="search_btn">Search</string>
+    <string name="marker_likes_txtV">Likes: </string>
+    <string name="marker_add_like_btn">Like!</string>
+    <string name="marker_reports_txtV">Reports: </string>
+    <string name="marker_nickname_txtV">Nickname: </string>
+    <string name="Toast_permission_required">Permission to access the location is missing</string>
+    <string name="signed_out_successfuly">Signed out successfuly!</string>
+    <string name="look_for_parkings">Look For Parkings</string>
+    <string name="im_out">Im Out</string>
+
+</resources>
